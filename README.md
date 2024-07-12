@@ -1,6 +1,8 @@
-# qr
-QR code reader
+# QR Code App
 
-to implement it, download it and run it 
-terminal code : streamlit run cg_qr_reader.py
-download the required libraries
+This is a Streamlit application to generate and read QR codes with custom colors and logos.
+
+## Features
+
+- Generate QR codes with custom colors and logos.
+- Read QR codes from webcam or uploaded images.
