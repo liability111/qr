@@ -27,6 +27,8 @@ protobuf==5.27.2
 pyarrow==16.1.0
 pydeck==0.9.1
 Pygments==2.18.0
+pyzbar
+
 pypng==0.20220715.0
 PyQRCode==1.2.1
 python-dateutil==2.9.0.post0
